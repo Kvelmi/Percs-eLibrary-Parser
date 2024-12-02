@@ -21,25 +21,29 @@
 
 1. Клонируйте репозиторий:
 
-   ```bash
+    ```bash
    git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
+   ```
 
 2. Перейдите в каталог проекта:
        
-       ```bash
+    ```bash
    cd Percs-eLibrary-Parser
+   ```
 
 3. Установите все зависимости из файла:
       
-       ```bash
+    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Использование
 
 1. Запустите скрипт:
 
-   ```bash
+    ```bash
    python main.py
+   ```
 
 2. Введите user_id автора, данные которого необходимо спарсить
 
