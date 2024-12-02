@@ -1,0 +1,21 @@
+Thumbs.db
+ehthumbs.db
+
+# Логи
+*.log
+
+venv/
+env/
+*.env
+
+*.bak
+*.swp
+
+.vscode/
+.idea/
+
+*.db
+
+*.pem
+*.key
+*.p12
