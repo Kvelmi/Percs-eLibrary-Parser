@@ -22,7 +22,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
+   git clone https://github.com/Kvelmi/Percs-eLibrary-Parser
    ```
 
 2. Перейдите в каталог проекта:
